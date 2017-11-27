@@ -1,0 +1,125 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<meta charset="utf-8">
+<title>工作中的一点感悟——附优秀EXCEL生产管理范例 - 感性空间 - 茶馆 -  Powered by Discuz! Archiver</title>
+<link href="http://www.sychaguan.com/forum.php?mod=viewthread&tid=2840" rel="canonical" />
+<meta name="keywords" content="工作中的一点感悟——附优秀EXCEL生产管理范例" />
+<meta name="description" content=" 工作中的一点感悟——附优秀EXCEL生产管理范例 ,茶馆" />
+<meta name="generator" content="Discuz! X2.5" />
+<meta name="author" content="Discuz! Team and Comsenz UI Team" />
+<meta name="copyright" content="2001-2012 Comsenz Inc." />
+<style type="text/css">
+	body {font-family: Verdana;FONT-SIZE: 12px;MARGIN: 0;color: #000000;background: #ffffff;}
+	img {border:0;}
+	li {margin-top: 8px;}
+	.page {padding: 4px; border-top: 1px #EEEEEE solid}
+	.author {background-color:#EEEEFF; padding: 6px; border-top: 1px #ddddee solid}
+	#nav, #content, #end {padding: 8px; border: 1px solid #EEEEEE; clear: both; width: 95%; margin: auto; margin-top: 10px;}
+	#header, #footer { margin-top: 20px; }
+	#loginform {text-align: center;}
+</style>
+</head>
+<body vlink="#333333" link="#333333">
+<center id="header">
+<h2>茶馆's Archiver </h2>
+</center><div id="nav">
+	<a href="./">论坛</a> &rsaquo; <a href="fid-55.html">感性空间</a> &rsaquo; 工作中的一点感悟——附优秀EXCEL生产管理范例</div>
+
+<div id="content">
+			<p class="author">
+					<strong>越山</strong>
+				发表于 2012-7-24 22:11:24	</p>
+			<h3>工作中的一点感悟——附优秀EXCEL生产管理范例</h3>
+		 本帖最后由 越山 于 2012-7-29 17:14 编辑 <br />
+<br />
+工作需要，比对两个各有约2000条数据的EXCEL格式的订单文件。一个文件排序已经混乱，由于预先没有加辅助列，导致没法恢复原有顺序，生产部门很痛苦，希望能够解决。<br />
+解决路径：<br />
+由于主体部分均相同，订单的各个描述（约10个描述）。所以依据前五个个字段的字符串值字符串函数合并进行查找比较。<br />
+很顺利做完，准备交差。<br />
+后来仔细一想，有漏洞，万一前五项相同后五项描述不同。意味着不同的订单项，这样就导致了查找数据的大量重复，想到此，赶紧验算了一下，发现了约几十个重复的。。。。{:soso_e136:} <br />
+<br />
+心想这个懒还是真不能偷啊，所以就把所有描述性全部纳入函数内比较。结果完美匹配，顺带检查出原表格若干疏漏错误。<br />
+<br />
+完工。<br />
+<br />
+总结：<br />
+1、考虑模型务必周到，提防例外情况发生。<br />
+2、技术条件允许下，穷尽多种手段验算自己设想是否正确。<br />
+3、学习学习再学习。试图找到更好解决问题思路。<br />
+<br />
+				<p class="author">
+					<strong>ssun1cn</strong>
+				发表于 2012-7-25 22:36:07	</p>
+			<h3></h3>
+		恭喜，熟练用好excel，走遍天下都不怕				<p class="author">
+					<strong>穿越</strong>
+				发表于 2012-7-26 05:29:33	</p>
+			<h3></h3>
+		这事俺曾经会做，现在手生了。就是写一段小程序，根据第一个excel的某个column搜索第二个excel，如果找到就把第二个excel的所有row的内容直接贴到第一个excel。<br />
+<br />
+后来俺的学生们说现在不要自己写了，excel有function可以直接做这事。				<p class="author">
+					<strong>龙战</strong>
+				发表于 2012-7-27 19:57:01	</p>
+			<h3></h3>
+		穿越 发表于 2012-7-26 05:29 static/image/common/back.gif<br />
+这事俺曾经会做，现在手生了。就是写一段小程序，根据第一个excel的某个column搜索第二个excel，如果找到就 ...<br />
+<br />
+真没看出来啊，EXCEL居然还暗含这么多有用的功能呢。				<p class="author">
+					<strong>穿越</strong>
+				发表于 2012-7-27 23:34:02	</p>
+			<h3></h3>
+		龙战 发表于 2012-7-27 19:57 static/image/common/back.gif<br />
+真没看出来啊，EXCEL居然还暗含这么多有用的功能呢。<br />
+<br />
+又回忆了一下，是一个lookup和match的组合。				<p class="author">
+					<strong>龙战</strong>
+				发表于 2012-7-28 21:54:28	</p>
+			<h3></h3>
+		穿越 发表于 2012-7-27 23:34 static/image/common/back.gif<br />
+又回忆了一下，是一个lookup和match的组合。<br />
+<br />
+如有空能不能系统的介绍一下啊。<br />
+我工作当中肯定要用上的。<br />
+先谢谢啦				<p class="author">
+					<strong>越山</strong>
+				发表于 2012-7-28 22:59:02	</p>
+			<h3></h3>
+		龙战 发表于 2012-7-28 21:54 static/image/common/back.gif<br />
+如有空能不能系统的介绍一下啊。<br />
+我工作当中肯定要用上的。<br />
+先谢谢啦<br />
+<br />
+想学这个建议去www.excelhome.net，精彩技巧无数				<p class="author">
+					<strong>temptemple</strong>
+				发表于 2012-7-29 14:42:50	</p>
+			<h3></h3>
+		再详细一下啊，举个生产线里数据的例子就最高了				<p class="author">
+					<strong>越山</strong>
+				发表于 2012-7-29 17:00:55	</p>
+			<h3></h3>
+		temptemple 发表于 2012-7-29 14:42 static/image/common/back.gif<br />
+再详细一下啊，举个生产线里数据的例子就最高了<br />
+生产线里的数据处理例子？用EXCEL吗？说个我关注过的。<br />
+EXCELHOME里面的牛人，用EXCEL编了个小型的BOM分拆表，如果你的生产线物料种类不多，排程变量不大，那么用这个绝对好使。又很灵活。<br />
+比如大家可以到这里去看看：<br />
+<br />
+			<div class="page">
+		页: 
+<strong>[1]</strong> 
+	</div>
+</div>
+
+<div id="end">
+	查看完整版本:
+	<a href="../forum.php?mod=viewthread&tid=2840&page=1" target="_blank"><strong>工作中的一点感悟——附优秀EXCEL生产管理范例</strong></a>
+</div>
+<br />
+<center>
+		<div id="footer">
+		Powered by <strong><a target="_blank" href="http://www.discuz.net">Discuz! X2.5 Archiver</a></strong> &nbsp; &copy 2001-2012 <a target="_blank" href="http://www.comsenz.com">Comsenz Inc.</a>
+		<br />
+		<br />
+	</div>
+</center>
+</body>
+</html>

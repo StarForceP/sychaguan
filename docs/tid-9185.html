@@ -1,0 +1,109 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<meta charset="utf-8">
+<title>每日NSA漏洞：HALLUXWATER - 科学技术 - 茶馆 -  Powered by Discuz! Archiver</title>
+<link href="http://www.sychaguan.com/forum.php?mod=viewthread&tid=9185" rel="canonical" />
+<meta name="keywords" content="每日NSA漏洞：HALLUXWATER" />
+<meta name="description" content=" 每日NSA漏洞：HALLUXWATER ,茶馆" />
+<meta name="generator" content="Discuz! X2.5" />
+<meta name="author" content="Discuz! Team and Comsenz UI Team" />
+<meta name="copyright" content="2001-2012 Comsenz Inc." />
+<style type="text/css">
+	body {font-family: Verdana;FONT-SIZE: 12px;MARGIN: 0;color: #000000;background: #ffffff;}
+	img {border:0;}
+	li {margin-top: 8px;}
+	.page {padding: 4px; border-top: 1px #EEEEEE solid}
+	.author {background-color:#EEEEFF; padding: 6px; border-top: 1px #ddddee solid}
+	#nav, #content, #end {padding: 8px; border: 1px solid #EEEEEE; clear: both; width: 95%; margin: auto; margin-top: 10px;}
+	#header, #footer { margin-top: 20px; }
+	#loginform {text-align: center;}
+</style>
+</head>
+<body vlink="#333333" link="#333333">
+<center id="header">
+<h2>茶馆's Archiver </h2>
+</center><div id="nav">
+	<a href="./">论坛</a> &rsaquo; <a href="fid-62.html">科学技术</a> &rsaquo; 每日NSA漏洞：HALLUXWATER</div>
+
+<div id="content">
+			<p class="author">
+					<strong>dkgeki</strong>
+				发表于 2014-1-10 17:05:41	</p>
+			<h3>每日NSA漏洞：HALLUXWATER</h3>
+		 本帖最后由 dkgeki 于 2014-1-10 17:05 编辑 <br />
+<br />
+
+<br />
+https://www.schneier.com/blog/ar ... alluxwater_nsa.html<br />
+摘自Schnier on Security，这位大拿最近在举行每日NSA漏洞活动，材料就是之前明镜泄的NSA TAO产品介绍。碰巧看到了个华为的，随便贴一下。<br />
+<br />
+HALLUXWATER(TS//SI//REL) The HALLUXWATER Persistence Back Door implant is installed on a target Huawei Eudemon firewall as a boot ROM upgrade. When the target reboots, the PBD installer software will find the needed patch points and install the back door in the inbound packet processing routine.<br />
+Once installed, HALLUXWATER communicates with an NSA operator via the TURBOPANDA Insertion Tool (PIT), giving the operator covert access to read and write memory, execute an address, or execute a packet.<br />
+HALLUXWATER provides a persistence capability on the Eudemon 200, 500, and 1000 series firewalls. The HALLUXWATER back door survives OS upgrades and automatic bootROM upgrades.<br />
+Status: (U//FOUO) On the shelf, and has been deployed.<br />
+<br />
+http://v2.freep.cn/110_3tb_140110165327tq4h512293.jpg<br />
+<br />
+简单翻译：<br />
+HALLUXWATER 是作为bootROM升级包安装在华为Eudemon防火墙的持久后门植入物。<br />
+在对象重启时，后门安装软件会找到需要打补丁的地址而将后门安装在处理流入数据包的程序内。<br />
+一旦安装，HALLUXWATER 可以经由TURBOPANDA Insertion Tool (PIT) 与NSA操作员通讯，给予操作员秘密读写内存，执行某个地址（的代码），或者执行某个包的能力。<br />
+HALLUXWATER 可以提供在Eudemon200，500和1000系列防火墙中持续存在的能力。HALLUXWATER 后门可以在OS升级和自动bootRom升级后继续存在。<br />
+状态：(U//FOUO)&nbsp;&nbsp;在货架上，已被安装<br />
+<br />
+<br />
+针对特定产品的后门。看意思大概是软件。特点是隐秘和不怕升级。<br />
+同时泄露的其他文件里好像还有针对Cisco，Juniper等等厂商的。<br />
+其他的某个文件里好像写过，如果NSA感兴趣的组织正好要买他能装后门的产品，而这个东西是从美国发货的话他们可能会动手脚。<br />
+				<p class="author">
+					<strong>玩钉耙的悟空</strong>
+				发表于 2014-1-10 20:44:08	</p>
+			<h3></h3>
+		台面上直接拿刀子捅对方越来越少，桌子底下互踢越来越多				<p class="author">
+					<strong>鹦鹉</strong>
+				发表于 2014-1-10 21:48:29	</p>
+			<h3></h3>
+		那么，华为在此之前知不知道自己的产品能装后门？				<p class="author">
+					<strong>dkgeki</strong>
+				发表于 2014-1-11 05:18:12	</p>
+			<h3></h3>
+		鹦鹉 发表于 2014-1-10 21:48 static/image/common/back.gif<br />
+那么，华为在此之前知不知道自己的产品能装后门？<br />
+<br />
+我不知道华为知不知道， 不过对于关注这方面的信息安全的人来说情报机构拥有做这种事情的能力应该不是秘密。<br />
+<br />
+上面Schinier博客里他本人的一个有意思的评论是，NSA之所以不得不靠这种非常具有针对性的手法植入后门是因为没有更容易的办法（比如稳定的远程漏洞什么的），某种意义上反向证明了产品的安全性				<p class="author">
+					<strong>cornwall</strong>
+				发表于 2014-1-15 07:19:13	</p>
+			<h3></h3>
+		面对zf这个级别有组织的找漏洞，利用漏洞来实现他们的目的，华为即使有防范也不能做到完全防范，他毕竟只是个企业，双方可利用的资源严重的不对等。<br />
+<br />
+如同利用苹果手机系统漏洞来实现越狱（管理员权限）的兴趣爱好者，苹果这么大的公司除了招安这些爱好者的核心人员外，尚且找不到其他更好的办法，毕竟进攻相对于防守永远是主动的，防守方不能每次都准确猜测到进攻方的发力点，最好的办法就是尽量少犯大错。				<p class="author">
+					<strong>dkgeki</strong>
+				发表于 2014-1-15 17:41:08	</p>
+			<h3></h3>
+		cornwall 发表于 2014-1-15 07:19 static/image/common/back.gif<br />
+面对zf这个级别有组织的找漏洞，利用漏洞来实现他们的目的，华为即使有防范也不能做到完全防范，他毕竟只是 ...<br />
+<br />
+现在别说政府了，都有漏洞收购公司堂而皇之的在买，从全世界的各种黑帽子灰帽子白帽子手里购买漏洞。之后再转手卖给西方的各种机构。<br />
+据说其中收购价最高的，比如针对苹果手机的稳定的远程代码执行漏洞能卖到几十万美金。<br />
+有过报导说比如美军，美国各种信息机构也在购买者之列。			<div class="page">
+		页: 
+<strong>[1]</strong> 
+	</div>
+</div>
+
+<div id="end">
+	查看完整版本:
+	<a href="../forum.php?mod=viewthread&tid=9185&page=1" target="_blank"><strong>每日NSA漏洞：HALLUXWATER</strong></a>
+</div>
+<br />
+<center>
+		<div id="footer">
+		Powered by <strong><a target="_blank" href="http://www.discuz.net">Discuz! X2.5 Archiver</a></strong> &nbsp; &copy 2001-2012 <a target="_blank" href="http://www.comsenz.com">Comsenz Inc.</a>
+		<br />
+		<br />
+	</div>
+</center>
+</body>
+</html>

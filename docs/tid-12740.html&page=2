@@ -1,0 +1,81 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<meta charset="utf-8">
+<title>汉诺威工业的一些资料照片和视频 - 第2页 - 科学技术 - 茶馆 -  Powered by Discuz! Archiver</title>
+<link href="http://www.sychaguan.com/forum.php?mod=viewthread&tid=12740" rel="canonical" />
+<meta name="keywords" content="汉诺威工业的一些资料照片和视频" />
+<meta name="description" content=" 汉诺威工业的一些资料照片和视频 ,茶馆" />
+<meta name="generator" content="Discuz! X2.5" />
+<meta name="author" content="Discuz! Team and Comsenz UI Team" />
+<meta name="copyright" content="2001-2012 Comsenz Inc." />
+<style type="text/css">
+	body {font-family: Verdana;FONT-SIZE: 12px;MARGIN: 0;color: #000000;background: #ffffff;}
+	img {border:0;}
+	li {margin-top: 8px;}
+	.page {padding: 4px; border-top: 1px #EEEEEE solid}
+	.author {background-color:#EEEEFF; padding: 6px; border-top: 1px #ddddee solid}
+	#nav, #content, #end {padding: 8px; border: 1px solid #EEEEEE; clear: both; width: 95%; margin: auto; margin-top: 10px;}
+	#header, #footer { margin-top: 20px; }
+	#loginform {text-align: center;}
+</style>
+</head>
+<body vlink="#333333" link="#333333">
+<center id="header">
+<h2>茶馆's Archiver </h2>
+</center><div id="nav">
+	<a href="./">论坛</a> &rsaquo; <a href="fid-62.html">科学技术</a> &rsaquo; 汉诺威工业的一些资料照片和视频</div>
+
+<div id="content">
+			<p class="author">
+					<strong>等而下之</strong>
+				发表于 2016-2-27 17:06:23	</p>
+			<h3></h3>
+		马灯 发表于 2015-8-27 03:40 static/image/common/back.gif<br />
+关于国产手术机器人，这则新闻提供的信息太少了。很难想象没有工科研究机构（公司）的支撑而仅仅由医学教 ...<br />
+<br />
+手术台“革命者”：达芬奇机器人<br />
+第一财经日报 王悦 2016-02-21 21:03:00<br />
+<br />
+她是一台名叫“达芬奇”的手术机器人。<br />
+从2006年第一台达芬奇手术机器人落户解放军301医院至今，截至2015年12月，分布在全国各地的几十台“达芬奇手术机器人”在去年共完成手术11445例，历年总计完成手术22917例。在美国，2007至2013年间有170万名病人进行了机器人手术。也许很多人还不敢相信，在越来越多的医院，复杂手术的重担正逐步降落到这些机器人身上。<br />
+<br />
+http://www.yicai.com/news/2016/02/4752068.html				<p class="author">
+					<strong>冰红茶</strong>
+				发表于 2016-10-18 03:41:39	</p>
+			<h3></h3>
+		马灯 发表于 2015-8-27 03:40 static/image/common/back.gif<br />
+关于国产手术机器人，这则新闻提供的信息太少了。很难想象没有工科研究机构（公司）的支撑而仅仅由医学教 ...<br />
+<br />
+手术机器人本就是一个噱头。试想 博士毕业后混到主任医生差不多要十年功夫吧。抛开最主要的操作技术而言，真真核心的价值在于经验吧。机器人如何快速的掌握呢？还有就是感知，这的花多少传感器来实现呢，同时精度能达到正常人类多少呢。基于大量同时要求线性给出结果，那么 这一切需要多少计算处理能力呢。<br />
+说下个人对国产自动化工业的看法。这几年关于国内数控和自控的新闻不绝于耳，老实说写文章的基本上对咱们是个啥状态处于懵懂全无方向感。<br />
+国内目前有知名度的整合厂商向大连光洋和沈阳新松。为啥叫整合，因为从表面上来看我们只能做光机。用某些不谙世事的成年人士的说法是咱们连电机驱动都做不了，这是真的吗？<br />
+而实际情况是咱们因为缺乏品牌电机厂所以咱们只能采购进口电机，而电机驱动这块是需要厂家授权，所以驱动这块都是搭车售卖或采取指定第三方提供方案。<br />
+这玩意很难？你把实际转速.功率.以及速率扭矩比等文档直接公开，你看写不写得出来。<br />
+咱们在机械设计，关键零部件的制造这块是没问题的，只有数控系统被人牵着鼻子。我不知道茶友们有参与过相关知识产权谈判没有，相关的条款文件的厚度是按照寸来计量。把这玩意一签你别说二次开发了，就算把PCB板子上的一个电容改动都算你违约。而且所有提供这类服务的都是如此，甚至于他们自己与竞争对手之间也是打专利交叉，这样你中有我我中有你。<br />
+在我看来其实这是好事，玩到这地步了想不故步自封都难。因此咱们有下手的机会了。<br />
+芯片架构这块可以做两个选择，轴数比较少一些，加工台面尺寸不大的可以选择龙芯。<br />
+像这种机床或自控设备通常体积不大，同时呢对操作速度要求也不会过高，因此想龙心这样的通用型芯片应付这种工况毫无压力的说。<br />
+而对于五轴以上的同时加工台面以及自控设备对速度要求高的可以考虑FPGA作为芯片架构。<br />
+相信我，我观察国外数控系统厂商还未发现有那家采用这种架构的。我个人认为这个架构绝对是中国数控机床以及自控装备杀出重围最佳的选择。FPGA在应对数学函数库以及操作流程升级或改动这块有天然快捷性，不像采用其他专用DSP架构的要升级？OK 重新设计电路吧。<br />
+而且 国外的厂家在FPGA数控系统的应用还未普遍，这样 咱们在应对专利这块太轻松了有木有。<br />
+以上是我的个人观点，欢迎其他茶友提出看法{:3_42:} 另外再说个事，国内以株机所为代表的永磁同步/步进电机应该不用太长时间就能面世了~			<div class="page">
+		页: 
+<a href="tid-12740.html&page=1">1</a> 
+<strong>[2]</strong> 
+	</div>
+</div>
+
+<div id="end">
+	查看完整版本:
+	<a href="../forum.php?mod=viewthread&tid=12740&page=2" target="_blank"><strong>汉诺威工业的一些资料照片和视频</strong></a>
+</div>
+<br />
+<center>
+		<div id="footer">
+		Powered by <strong><a target="_blank" href="http://www.discuz.net">Discuz! X2.5 Archiver</a></strong> &nbsp; &copy 2001-2012 <a target="_blank" href="http://www.comsenz.com">Comsenz Inc.</a>
+		<br />
+		<br />
+	</div>
+</center>
+</body>
+</html>

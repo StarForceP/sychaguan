@@ -1,0 +1,230 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<meta charset="utf-8">
+<title>忙总全集2013-5-31，阅读器说明 - 第3页 - 科学技术 - 茶馆 -  Powered by Discuz! Archiver</title>
+<link href="http://www.sychaguan.com/forum.php?mod=viewthread&tid=758" rel="canonical" />
+<meta name="keywords" content="忙总全集2013-5-31，阅读器说明" />
+<meta name="description" content=" 忙总全集2013-5-31，阅读器说明 ,茶馆" />
+<meta name="generator" content="Discuz! X2.5" />
+<meta name="author" content="Discuz! Team and Comsenz UI Team" />
+<meta name="copyright" content="2001-2012 Comsenz Inc." />
+<style type="text/css">
+	body {font-family: Verdana;FONT-SIZE: 12px;MARGIN: 0;color: #000000;background: #ffffff;}
+	img {border:0;}
+	li {margin-top: 8px;}
+	.page {padding: 4px; border-top: 1px #EEEEEE solid}
+	.author {background-color:#EEEEFF; padding: 6px; border-top: 1px #ddddee solid}
+	#nav, #content, #end {padding: 8px; border: 1px solid #EEEEEE; clear: both; width: 95%; margin: auto; margin-top: 10px;}
+	#header, #footer { margin-top: 20px; }
+	#loginform {text-align: center;}
+</style>
+</head>
+<body vlink="#333333" link="#333333">
+<center id="header">
+<h2>茶馆's Archiver </h2>
+</center><div id="nav">
+	<a href="./">论坛</a> &rsaquo; <a href="fid-62.html">科学技术</a> &rsaquo; 忙总全集2013-5-31，阅读器说明</div>
+
+<div id="content">
+			<p class="author">
+					<strong>珙桐花</strong>
+				发表于 2012-3-4 18:52:15	</p>
+			<h3></h3>
+		aaagxf 发表于 2012-3-4 16:24 static/image/common/back.gif<br />
+请问楼主，能否加个按时间排序和下载全贴的功能？<br />
+要是把收集指定ID发言的功能也加上就完美了。<br />
+另外用 ...<br />
+<br />
+通常后发言的帖子在尾部，你注意看看。<br />
+这个东西空闲时间做做，没有太多的工夫完善，源程序也放在新浪上了，有兴趣的朋友可以自己DIY。ccreadCode.rar				<p class="author">
+					<strong>flatworld</strong>
+				发表于 2012-3-5 03:45:12	</p>
+			<h3></h3>
+		楼主辛苦了。多谢多谢！				<p class="author">
+					<strong>aaagxf</strong>
+				发表于 2012-3-5 11:07:56	</p>
+			<h3></h3>
+		珙桐花 发表于 2012-3-4 18:52 static/image/common/back.gif<br />
+通常后发言的帖子在尾部，你注意看看。<br />
+这个东西空闲时间做做，没有太多的工夫完善，源程序也放在新浪上 ...<br />
+<br />
+谢了。				<p class="author">
+					<strong>伊贺双刀流</strong>
+				发表于 2012-3-5 11:17:01	</p>
+			<h3></h3>
+		楼主，好像源文件需要密码才能打开吗？				<p class="author">
+					<strong>珙桐花</strong>
+				发表于 2012-3-5 11:51:04	</p>
+			<h3></h3>
+		伊贺双刀流 发表于 2012-3-5 11:17 static/image/common/back.gif<br />
+楼主，好像源文件需要密码才能打开吗？<br />
+<br />
+那是个没用的密钥，点击取消后可正常编辑代码，在项目属性中用自己的机器生成新密钥就OK了。				<p class="author">
+					<strong>吾牛之牛</strong>
+				发表于 2012-3-5 12:01:54	</p>
+			<h3></h3>
+		有阅读器就是方便啊。				<p class="author">
+					<strong>伊贺双刀流</strong>
+				发表于 2012-3-5 14:25:43	</p>
+			<h3></h3>
+		珙桐花 发表于 2012-3-5 11:51 static/image/common/back.gif<br />
+那是个没用的密钥，点击取消后可正常编辑代码，在项目属性中用自己的机器生成新密钥就OK了。<br />
+<br />
+做得真不赖啊，兄弟，问下哈，这些数据你是怎么收集的，是直接从数据库了拿还是用的网络爬虫？				<p class="author">
+					<strong>珙桐花</strong>
+				发表于 2012-3-5 14:29:02	</p>
+			<h3></h3>
+		伊贺双刀流 发表于 2012-3-5 14:25 static/image/common/back.gif<br />
+做得真不赖啊，兄弟，问下哈，这些数据你是怎么收集的，是直接从数据库了拿还是用的网络爬虫？<br />
+<br />
+自己写的爬虫，最基本的代码其实阅读器源码里面已经有了。				<p class="author">
+					<strong>1062345958</strong>
+				发表于 2012-3-5 21:25:38	</p>
+			<h3></h3>
+		珙桐花 发表于 2012-3-4 18:52 static/image/common/back.gif<br />
+通常后发言的帖子在尾部，你注意看看。<br />
+这个东西空闲时间做做，没有太多的工夫完善，源程序也放在新浪上 ...<br />
+<br />
+请问lz：安装完后，添加文件，点查看内容，弹出“不可识别的数据库格式”，点继续，就没下文了。这一般是什么问题呢？				<p class="author">
+					<strong>珙桐花</strong>
+				发表于 2012-3-6 09:52:09	</p>
+			<h3></h3>
+		1062345958 发表于 2012-3-5 21:25 static/image/common/back.gif<br />
+请问lz：安装完后，添加文件，点查看内容，弹出“不可识别的数据库格式”，点继续，就没下文了。这一般是 ...<br />
+<br />
+所有的mdb数据库都这样吗？如果机器上有access，打开看看是不是报错，建议重新下载试试。				<p class="author">
+					<strong>呼伦贝尔</strong>
+				发表于 2012-3-9 15:37:57	</p>
+			<h3></h3>
+		能不能也为MRandson的文章也做个合集呢？				<p class="author">
+					<strong>珙桐花</strong>
+				发表于 2012-3-9 15:41:18	</p>
+			<h3></h3>
+		呼伦贝尔 发表于 2012-3-9 15:37 http://www.sychaguan.com/static/image/common/back.gif<br />
+能不能也为MRandson的文章也做个合集呢？<br />
+<br />
+有的，只是没整理好，过两天发出。另外MRandson的文章在博客上有，比较全。				<p class="author">
+					<strong>呼伦贝尔</strong>
+				发表于 2012-3-9 15:43:29	</p>
+			<h3></h3>
+		珙桐花 发表于 2012-3-9 15:41 static/image/common/back.gif<br />
+有的，只是没整理好，过两天发出。另外MRandson的文章在博客上有，比较全。<br />
+<br />
+太好了，期待....				<p class="author">
+					<strong>崂山江城子</strong>
+				发表于 2012-3-10 10:45:55	</p>
+			<h3></h3>
+		mark~				<p class="author">
+					<strong>Johnsonmax</strong>
+				发表于 2012-3-12 09:20:09	</p>
+			<h3></h3>
+		珙桐花 发表于 2012-3-1 13:58 static/image/common/back.gif<br />
+这个不太清楚怎么回事，用win7的网友不少，这个问题第一次出现，你先单独安装下.net framework 3.5（微软 ...<br />
+<br />
+能搞一个安卓手机上看的就好了，哈哈				<p class="author">
+					<strong>珙桐花</strong>
+				发表于 2012-3-12 13:13:56	</p>
+			<h3></h3>
+		呼伦贝尔 发表于 2012-3-9 15:43 http://www.sychaguan.com/static/image/common/back.gif<br />
+太好了，期待....<br />
+<br />
+已发MRandson西西河.mdb				<p class="author">
+					<strong>呼伦贝尔</strong>
+				发表于 2012-3-12 17:29:35	</p>
+			<h3></h3>
+		珙桐花 发表于 2012-3-12 13:13 static/image/common/back.gif<br />
+已发MRandson西西河.mdb<br />
+<br />
+非常感谢，辛苦了<br />
+				<p class="author">
+					<strong>jycqing</strong>
+				发表于 2012-3-14 00:06:00	</p>
+			<h3></h3>
+		感谢你，感谢忙总！				<p class="author">
+					<strong>whamlu</strong>
+				发表于 2012-3-15 00:46:07	</p>
+			<h3></h3>
+		many many many thankssssssssssssssss!				<p class="author">
+					<strong>fatsheep</strong>
+				发表于 2012-3-15 06:46:38	</p>
+			<h3></h3>
+		辛苦了，支持{:4_279:}				<p class="author">
+					<strong>fatsheep</strong>
+				发表于 2012-3-15 06:47:28	</p>
+			<h3></h3>
+		.net framework 3.5安装的时候需要联网，可惜我的电脑不能上网{:soso_e154:}				<p class="author">
+					<strong>卡里其亚</strong>
+				发表于 2012-3-15 13:31:32	</p>
+			<h3></h3>
+		请教珙桐花MM，你用的什么环境写的？我看不到c++的文件哪				<p class="author">
+					<strong>mycing</strong>
+				发表于 2012-3-15 13:49:21	</p>
+			<h3></h3>
+		手机党盼pdf版				<p class="author">
+					<strong>珙桐花</strong>
+				发表于 2012-3-15 17:41:03	</p>
+			<h3></h3>
+		卡里其亚 发表于 2012-3-15 13:31 static/image/common/back.gif<br />
+请教珙桐花MM，你用的什么环境写的？我看不到c++的文件哪<br />
+<br />
+c#，不是c++哈，源代码：ccreadCode.rar				<p class="author">
+					<strong>冷酷到底</strong>
+				发表于 2012-3-15 17:43:14	</p>
+			<h3></h3>
+		fatsheep 发表于 2012-3-15 06:47 static/image/common/back.gif<br />
+.net framework 3.5安装的时候需要联网，可惜我的电脑不能上网<br />
+<br />
+微软官网上没有安装包吗？				<p class="author">
+					<strong>卡里其亚</strong>
+				发表于 2012-3-15 22:22:49	</p>
+			<h3></h3>
+		珙桐花 发表于 2012-3-15 17:41 static/image/common/back.gif<br />
+c#，不是c++哈，源代码：ccreadCode.rar<br />
+<br />
+sorry，是我看走眼了。另外借问一下，是否只有mdb格式的合集？如果想做到android手机上，mdb读取比较麻烦哎。				<p class="author">
+					<strong>atchg</strong>
+				发表于 2012-3-15 23:43:07	</p>
+			<h3></h3>
+		感谢。				<p class="author">
+					<strong>珙桐花</strong>
+				发表于 2012-3-16 09:55:00	</p>
+			<h3></h3>
+		卡里其亚 发表于 2012-3-15 22:22 static/image/common/back.gif<br />
+sorry，是我看走眼了。另外借问一下，是否只有mdb格式的合集？如果想做到android手机上，mdb读取比较麻烦 ...<br />
+<br />
+只有mdb的，如果需要，也可以生成带框架的网页版，不过这个在手机上看可能也比较麻烦。				<p class="author">
+					<strong>raodingchen</strong>
+				发表于 2012-3-16 10:37:46	</p>
+			<h3></h3>
+		{:soso_e113:}感谢楼主				<p class="author">
+					<strong>卡里其亚</strong>
+				发表于 2012-3-16 13:49:20	</p>
+			<h3></h3>
+		珙桐花 发表于 2012-3-16 09:55 static/image/common/back.gif<br />
+只有mdb的，如果需要，也可以生成带框架的网页版，不过这个在手机上看可能也比较麻烦。<br />
+<br />
+嗯。昨天查了一下，mdb的虽然可以转成html格式，不过使用起来确实比较麻烦。如果有什么格式在android/iOS下比较容易读取就好了，这样大家可以在手机上直接浏览，查询起来也方便，不用每次都得打开电脑来看。或者做个小服务器？手机用网络来查看？			<div class="page">
+		页: 
+<a href="tid-758.html&page=1">1</a> 
+<a href="tid-758.html&page=2">2</a> 
+<strong>[3]</strong> 
+<a href="tid-758.html&page=4">4</a> 
+<a href="tid-758.html&page=5">5</a> 
+<a href="tid-758.html&page=6">6</a> 
+	</div>
+</div>
+
+<div id="end">
+	查看完整版本:
+	<a href="../forum.php?mod=viewthread&tid=758&page=3" target="_blank"><strong>忙总全集2013-5-31，阅读器说明</strong></a>
+</div>
+<br />
+<center>
+		<div id="footer">
+		Powered by <strong><a target="_blank" href="http://www.discuz.net">Discuz! X2.5 Archiver</a></strong> &nbsp; &copy 2001-2012 <a target="_blank" href="http://www.comsenz.com">Comsenz Inc.</a>
+		<br />
+		<br />
+	</div>
+</center>
+</body>
+</html>
